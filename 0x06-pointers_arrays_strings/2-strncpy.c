@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+#include "main.h"
 /**
  * _strncpy - main function
  * @dest: a string
